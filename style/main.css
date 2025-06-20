@@ -71,6 +71,7 @@ a {
 .menu-toggle .bar {
   width: 25px;
   height: 3px;
+  margin-right: 10px;
   background-color: gold;
   border-radius: 2px;
   transition: all 0.3s ease;
