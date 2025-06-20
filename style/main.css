@@ -420,12 +420,11 @@ a {
 }
 .slide-btn.prev {
   left: -1px;
-  bottom: -100px;
+  bottom: -60px;
 }
 
 .slide-btn.next {
-  right: -370px;
-  bottom: -45px;
+  display: none;
 }
 }
 
