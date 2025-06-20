@@ -424,7 +424,7 @@ a {
 }
 
 .slide-btn.next {
-     right: -380px;
+  right: -470px;
   bottom: -60px;
 }
 }
@@ -458,5 +458,6 @@ a {
     padding: 20px;
     align-items: center;
   }
+  .slide-btn.prev {}
 }
 
